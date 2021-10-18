@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">pet_registration</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="namePet">Nome do pet</string>
+    <string-array name="spSpecies">
+        <item>Selecione a espécie</item>
+        <item>Cachorro</item>
+        <item>Gato</item>
+    </string-array>
+    <string name="yearsPet">Idade do pet</string>
+
+
+</resources>
